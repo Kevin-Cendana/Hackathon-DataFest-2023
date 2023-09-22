@@ -1,4 +1,4 @@
-A repository for [ASA DataFest 2023!](https://ww2.amstat.org/education/datafest/)
+# A repository for [ASA DataFest 2023!](https://ww2.amstat.org/education/datafest/)
 
 Teams of up to 5 students were given a very large data set with hundreds of thousands of questions for lawyers from their clients. Using this data set, teams would find out ways to extrapolate data that could connect lawyers to their clients and display their findings in front of a panel of judges.
 
