@@ -1,7 +1,9 @@
-# A repository for [ASA DataFest 2023!](https://ww2.amstat.org/education/datafest/)
+# [ASA DataFest 2023](https://ww2.amstat.org/education/datafest/)
 
+# Event Description
 Teams of up to 5 students were given a very large data set with hundreds of thousands of questions for lawyers from their clients. Using this data set, teams would find out ways to extrapolate data that could connect lawyers to their clients and display their findings in front of a panel of judges.
 
+# My Experience
 - **Final Presentation:** My group created a gradient heat map showcasing the amount of trials that went to state.
   - We also made a word cloud showcasing the most common terms used for each category of case.
 - **Data_AverageClient.ipynb:** I was in charge of extrapolating some of the important information in the data set. In this case, I looked at the differences in data based on ethnicity.
